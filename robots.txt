@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thistlecart.shop/sitemap.xml
